@@ -1,0 +1,25 @@
+C:\workspace\Dijkstra\bin;C:\Documents and Settings\re56071\eclipse-36-jee\configuration\org.eclipse.osgi\bundles\950\1\.cp\lib\scala-library.jar;C:\Documents and Settings\re56071\eclipse-36-jee\configuration\org.eclipse.osgi\bundles\950\1\.cp\lib\scala-dbc.jar;C:\Documents and Settings\re56071\eclipse-36-jee\configuration\org.eclipse.osgi\bundles\950\1\.cp\lib\scala-swing.jar;C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\ext\dnsns.jar;C:\Program Files\Java\jre6\lib\ext\localedata.jar;C:\Program Files\Java\jre6\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre6\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre6\lib\ext\sunpkcs11.jar
+-------
+C:\workspace\Dijkstra\src\Dijkstra.scala -> C:\workspace\Dijkstra\src\Dijkstra.scala
+C:\workspace\Dijkstra\src\Dijkstra.scala -> C:\workspace\Dijkstra\src\Graph.scala
+C:\workspace\Dijkstra\src\Graph.scala -> C:\workspace\Dijkstra\src\Graph.scala
+-------
+C:\workspace\Dijkstra\src\Dijkstra.scala -> C:\workspace\Dijkstra\bin\Dijkstra$$anonfun$relaxNeighbors$2.class
+C:\workspace\Dijkstra\src\Dijkstra.scala -> C:\workspace\Dijkstra\bin\Dijkstra$$anonfun$extractMinimum$1.class
+C:\workspace\Dijkstra\src\Dijkstra.scala -> C:\workspace\Dijkstra\bin\Dijkstra$$anonfun$relaxNeighbors$1.class
+C:\workspace\Dijkstra\src\Dijkstra.scala -> C:\workspace\Dijkstra\bin\Dijkstra$$anonfun$main$1.class
+C:\workspace\Dijkstra\src\Dijkstra.scala -> C:\workspace\Dijkstra\bin\Dijkstra$.class
+C:\workspace\Dijkstra\src\Dijkstra.scala -> C:\workspace\Dijkstra\bin\Dijkstra$$anonfun$1.class
+C:\workspace\Dijkstra\src\Dijkstra.scala -> C:\workspace\Dijkstra\bin\Dijkstra.class
+C:\workspace\Dijkstra\src\Graph.scala -> C:\workspace\Dijkstra\bin\UndirectedGraph$NodeImpl$$anonfun$toString$1.class
+C:\workspace\Dijkstra\src\Graph.scala -> C:\workspace\Dijkstra\bin\WeightedGraph$Weight$class.class
+C:\workspace\Dijkstra\src\Graph.scala -> C:\workspace\Dijkstra\bin\UndirectedGraph$EdgeImpl.class
+C:\workspace\Dijkstra\src\Graph.scala -> C:\workspace\Dijkstra\bin\Graph.class
+C:\workspace\Dijkstra\src\Graph.scala -> C:\workspace\Dijkstra\bin\ConcreteUndirectedGraph.class
+C:\workspace\Dijkstra\src\Graph.scala -> C:\workspace\Dijkstra\bin\UndirectedGraph$NodeImpl.class
+C:\workspace\Dijkstra\src\Graph.scala -> C:\workspace\Dijkstra\bin\WeightedGraph$Weight.class
+C:\workspace\Dijkstra\src\Graph.scala -> C:\workspace\Dijkstra\bin\WeightedGraph$$anon$1.class
+C:\workspace\Dijkstra\src\Graph.scala -> C:\workspace\Dijkstra\bin\UndirectedGraph.class
+C:\workspace\Dijkstra\src\Graph.scala -> C:\workspace\Dijkstra\bin\WeightedGraph.class
+C:\workspace\Dijkstra\src\Graph.scala -> C:\workspace\Dijkstra\bin\Graph$IEdge.class
+C:\workspace\Dijkstra\src\Graph.scala -> C:\workspace\Dijkstra\bin\Graph$INode.class
