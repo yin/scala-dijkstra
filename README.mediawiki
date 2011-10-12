@@ -1,0 +1,11 @@
+= Shortest-Path Search in Weighted Graph =
+So this is  Dijktra's algorithm - a popular algorithm (easy to learn and efficient), which produces Spanning Trees as a side-effect.
+
+== References ==
+Implementation:
+* [http://renaud.waldura.com/doc/java/dijkstra/]
+
+Documentation:
+* [http://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&oldid=454569329]
+* [http://xlinux.nist.gov/dads/HTML/dijkstraalgo.html]
+* [http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/GraphAlgor/dijkstraAlgor.htm]
